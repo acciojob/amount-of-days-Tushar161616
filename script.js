@@ -1,5 +1,5 @@
 //your JS code here. If required.
-// let number = prompt();
+let number = prompt();
 daysOfAYear(number)
 
 
